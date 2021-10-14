@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CNU_HMC">
         <activity
+            android:name=".InputCaseActivity"
+            android:exported="true" />
+        <activity
             android:name=".InputRoadActivity"
             android:exported="true" />
         <activity
