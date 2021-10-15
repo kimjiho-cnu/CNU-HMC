@@ -4,11 +4,13 @@ import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.Button;
 import android.widget.Spinner;
 
 public class InputCaseActivity extends AppCompatActivity {
@@ -16,6 +18,7 @@ public class InputCaseActivity extends AppCompatActivity {
     Toolbar toolbar_input_case;
     Spinner spinner_input_case;
     int spinner_idx, road_case_idx;
+    Button btn_input_case;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,11 +27,22 @@ public class InputCaseActivity extends AppCompatActivity {
 
         toolbar_input_case = findViewById(R.id.toolbar_input_case);
         spinner_input_case = findViewById(R.id.spinner_input_case);
+        btn_input_case  = findViewById(R.id.btn_case);
 
         road_case_idx = getIntent().getIntExtra("ROAD_CASE", -1);
 
         settingActionBar();
         settingSpinner();
+
+          // 직선 도로
+
+        btn_input_case.setOnClickListener(view -> {
+            Intent intent = new Intent(this, InputCaseDetailActivity.class);
+            intent.putExtra("ROAD_CASE", road_case_idx);
+            intent.putExtra("INPUT_CASE", spinner_idx);
+            startActivity(intent);
+        });
+
     }
 
     private void settingSpinner() {
