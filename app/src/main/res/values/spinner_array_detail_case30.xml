@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="detail_case_array30">
+        <item>직진</item>
+        <item>왼쪽 도로에서 직진</item>
+        <item>오른쪽 도로에서 직진</item>
+        <item>오른쪽 도로에서 좌회전</item>
+    </string-array>
+
+    <string-array name="detail_case_array31">
+        <item>대로에서 직진</item>
+        <item>소로에서 직진 (좌측도로)</item>
+        <item>소로에서 직진 (우측도로)</item>
+        <item>소로에서 좌회전</item>
+        <item>소로에서 직진</item>
+        <item>대로에서 좌회전</item>
+
+    </string-array>
+
+    <string-array name="detail_case_array32">
+        <item>표지가 없는 도로에서 직진</item>
+        <item>일시정지 위반 직진 (좌측도로)</item>
+        <item>일시정지 위반 직진 (우측도로)</item>
+        <item>일시정지 위반 직진</item>
+        <item>일시정지 위반 좌회전</item>
+    </string-array>
+
+
+
+
+</resources>

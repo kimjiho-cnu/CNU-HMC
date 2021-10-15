@@ -25,10 +25,9 @@
                 android:id="@+id/toolbar_result"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:paddingLeft="30dp"
+                android:paddingLeft="10dp"
                 android:theme="@style/ToolbarTheme2"
                 app:title="사고 분석 결과"
-
                 app:titleTextColor="@color/black" />
 
         </com.google.android.material.appbar.AppBarLayout>

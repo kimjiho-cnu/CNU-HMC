@@ -34,7 +34,6 @@ public class InputCaseActivity extends AppCompatActivity {
         settingActionBar();
         settingSpinner();
 
-          // 직선 도로
 
         btn_input_case.setOnClickListener(view -> {
             Intent intent = new Intent(this, InputCaseDetailActivity.class);

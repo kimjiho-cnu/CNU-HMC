@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_search"
+            android:icon="@drawable/ic_search_solid"
+            android:title="사고 판례 검색하기" />
+
+        <item
+            android:id="@+id/menu_community"
+            android:icon="@drawable/ic_comment_dots_solid"
+            android:title="커뮤니티" />
+
+        <item
+            android:id="@+id/menu_statistics"
+            android:icon="@drawable/ic_chart_bar_solid"
+            android:title="통계 보기" />
+
+        <item
+            android:id="@+id/menu_my_page"
+            android:icon="@drawable/ic_user_circle_solid"
+            android:title="마이 페이지" />
+    </group>
+
+    <item android:title="빠른 시작">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/menu_damage"
+                    android:icon="@drawable/ic_car_crash_solid"
+                    android:title="피해 산정하기" />
+
+                <item
+                    android:id="@+id/menu_logout"
+                    android:icon="@drawable/ic_sign_out_alt_solid"
+                    android:title="로그아웃" />
+            </group>
+        </menu>
+    </item>
+
+</menu>

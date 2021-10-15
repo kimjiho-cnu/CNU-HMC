@@ -4,9 +4,16 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/drawable/ic_bars_solid.xml" value="0.196875" />
+        <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/drawable/ic_car_crash_solid.xml" value="0.196875" />
+        <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/drawable/ic_chart_bar_solid.xml" value="0.196875" />
         <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/drawable/ic_chevron_left_solid.xml" value="0.26979166666666665" />
         <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/drawable/ic_chevron_left_solid_black.xml" value="0.2484375" />
+        <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/drawable/ic_comment_dots_solid.xml" value="0.196875" />
         <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/drawable/ic_search_solid.xml" value="0.196875" />
+        <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/drawable/ic_sign_out_alt_solid.xml" value="0.196875" />
+        <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/drawable/ic_user_circle_solid.xml" value="0.196875" />
         <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/drawable/login_background.xml" value="0.26979166666666665" />
         <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/drawable/selector_button_01.xml" value="0.26979166666666665" />
         <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/drawable/selector_button_02.xml" value="0.26979166666666665" />
@@ -24,7 +31,7 @@
         <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/font/font.xml" value="0.2838541666666667" />
         <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/layout/activity_choose_type.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/layout/activity_input_case.xml" value="0.2441123188405797" />
-        <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/layout/activity_input_case_detail.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/layout/activity_input_case_detail.xml" value="0.4288194444444444" />
         <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/layout/activity_input_road.xml" value="0.264" />
         <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/layout/activity_judgement.xml" value="0.19947916666666668" />
         <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/layout/activity_log_in_detail.xml" value="0.264" />
@@ -32,6 +39,8 @@
         <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/layout/activity_main.xml" value="0.23777173913043478" />
         <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/layout/activity_result.xml" value="0.19947916666666668" />
         <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/layout/activity_sign_up.xml" value="0.264" />
+        <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/menu/bar_menu.xml" value="0.4348370927318296" />
+        <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/menu/nav_menu.xml" value="0.18072916666666666" />
         <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.16145833333333334" />
         <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.16145833333333334" />
         <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/mipmap-anydpi-v26/login.xml" value="0.26979166666666665" />

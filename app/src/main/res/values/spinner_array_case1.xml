@@ -1,8 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="case_array1">
-        <item>1</item>
-        <item>1</item>
+        <item>추돌 사고</item>
+        <item>차로 감소 도로 (합류)</item>
+        <item>열린 문 접촉 사고</item>
+        <item>역주행 사고 (중앙성 침범)</item>
+        <item>이면도로 교행 사고</item>
+        <item>추월 사고</item>
+        <item>차로변경 (진로변경)</item>
+        <item>안전지대 통과 사고</item>
+        <item>정차 후 출발 사고</item>
+        <item>긴급자동차 사고</item>
     </string-array>
+
+    <string-array name="case_array2">
+        <item>상대 차량이 측면 방향에서 진입</item>
+        <item>상대 차량이 맞은편 방향에서 진입</item>
+        <item>비보호 좌회전 표지 있음</item>
+        <item>신호등이 한쪽차량 방향에만 있음</item>
+        <item>교차로 내 진로변경</item>
+        <item>추월 사고</item>
+        <item>유턴 구역</item>
+        <item>정차 후 출발 사고</item>
+        <item>노면 표시 위반 사고</item>
+        <item>긴급자동차 사고</item>
+    </string-array>
+
+    <string-array name="case_array3">
+        <item>동일폭 도로</item>
+        <item>대로와 소로</item>
+        <item>일시정지 표지가 한쪽방향에만 있음</item>
+        <item>일방통행 표지가 한쪽 방향에만 있음</item>
+        <item>교차로 내 진로변경</item>
+        <item>2개 차량이 나란히 통행 가능한 차로폭</item>
+        <item>좌/우회전 각도가 90도 미만</item>
+        <item>2개 차로 동시 우회전</item>
+        <item>2개 차로 동시 좌회전</item>
+        <item>정차 후 출발 사고</item>
+        <item>긴급자동차 사고</item>
+    </string-array>
+
+    <string-array name="case_array4">
+        <item>동일폭 도로</item>
+        <item>대로와 소로</item>
+        <item>일시정지 표지가 한쪽방향에만 있음</item>
+    </string-array>
+
+    <string-array name="case_array5">
+        <item>회전차로 1차로형</item>
+        <item>회전차로 2차로형</item>
+    </string-array>
+
+    <string-array name="case_array6">
+        <item>주차구역과 통로</item>
+    </string-array>
+
+
 
 </resources>

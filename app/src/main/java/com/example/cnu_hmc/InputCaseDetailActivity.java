@@ -65,7 +65,105 @@ public class InputCaseDetailActivity extends AppCompatActivity {
 
         int arrayNumber = 0;
 
-        arrayNumber = R.array.case_array1;
+        if (road_case_idx == 0) {   // 직선 도로 10개
+            if(spinner_input_case_idx == 0){
+                arrayNumber = R.array.detail_case_array00;
+            }else if(spinner_input_case_idx == 1){
+                arrayNumber = R.array.detail_case_array01;
+            }else if(spinner_input_case_idx == 2){
+                arrayNumber = R.array.detail_case_array02;
+            }else if(spinner_input_case_idx == 3){
+                arrayNumber = R.array.detail_case_array03;
+            }else if(spinner_input_case_idx == 4){
+                arrayNumber = R.array.detail_case_array04;
+            }else if(spinner_input_case_idx == 5){
+                arrayNumber = R.array.detail_case_array05;
+            }else if(spinner_input_case_idx == 6){
+                arrayNumber = R.array.detail_case_array06;
+            }else if(spinner_input_case_idx == 7){
+                arrayNumber = R.array.detail_case_array07;
+            }else if(spinner_input_case_idx == 8){
+                arrayNumber = R.array.detail_case_array08;
+            }else if(spinner_input_case_idx == 9){
+                arrayNumber = R.array.detail_case_array09;
+            }
+
+        }
+
+        else if (road_case_idx == 1) {    // 사거리 신호등 o 10개
+            if(spinner_input_case_idx == 0){
+                arrayNumber = R.array.detail_case_array10;
+            }else if(spinner_input_case_idx == 1){
+                arrayNumber = R.array.detail_case_array11;
+            }else if(spinner_input_case_idx == 2){
+                arrayNumber = R.array.detail_case_array12;
+            }else if(spinner_input_case_idx == 3){
+                arrayNumber = R.array.detail_case_array13;
+            }else if(spinner_input_case_idx == 4){
+                arrayNumber = R.array.detail_case_array14;
+            }else if(spinner_input_case_idx == 5){
+                arrayNumber = R.array.detail_case_array15;
+            }else if(spinner_input_case_idx == 6){
+                arrayNumber = R.array.detail_case_array16;
+            }else if(spinner_input_case_idx == 7){
+                arrayNumber = R.array.detail_case_array17;
+            }else if(spinner_input_case_idx == 8){
+                arrayNumber = R.array.detail_case_array18;
+            }else if(spinner_input_case_idx == 9){
+                arrayNumber = R.array.detail_case_array19;
+            }
+        }
+
+        else if (road_case_idx == 2) {  // 사거리 신호등 x    11개
+            if(spinner_input_case_idx == 0){
+                arrayNumber = R.array.detail_case_array20;
+            }else if(spinner_input_case_idx == 1){
+                arrayNumber = R.array.detail_case_array21;
+            }else if(spinner_input_case_idx == 2){
+                arrayNumber = R.array.detail_case_array22;
+            }else if(spinner_input_case_idx == 3){
+                arrayNumber = R.array.detail_case_array23;
+            }else if(spinner_input_case_idx == 4){
+                arrayNumber = R.array.detail_case_array24;
+            }else if(spinner_input_case_idx == 5){
+                arrayNumber = R.array.detail_case_array25;
+            }else if(spinner_input_case_idx == 6){
+                arrayNumber = R.array.detail_case_array26;
+            }else if(spinner_input_case_idx == 7){
+                arrayNumber = R.array.detail_case_array27;
+            }else if(spinner_input_case_idx == 8){
+                arrayNumber = R.array.detail_case_array28;
+            }else if(spinner_input_case_idx == 9){
+                arrayNumber = R.array.detail_case_array29;
+            }else if(spinner_input_case_idx == 10){
+                arrayNumber = R.array.detail_case_array210;
+            }
+        }
+
+        else if (road_case_idx == 3) {  // T자형 교차로  3개
+            if(spinner_input_case_idx == 0){
+                arrayNumber = R.array.detail_case_array30;
+            }else if(spinner_input_case_idx == 1){
+                arrayNumber = R.array.detail_case_array31;
+            }else if(spinner_input_case_idx == 2){
+                arrayNumber = R.array.detail_case_array32;
+            }
+        }
+
+        else if (road_case_idx == 4) {  // 회전 교차로   2개
+            if(spinner_input_case_idx == 0){
+                arrayNumber = R.array.detail_case_array40;
+            }else if(spinner_input_case_idx == 1){
+                arrayNumber = R.array.detail_case_array41;
+            }
+        }
+
+        else if (road_case_idx == 5) {  //  주차장 및 기타 장소 1개
+            if(spinner_input_case_idx == 0){
+                arrayNumber = R.array.detail_case_array50;
+            }
+        }
+
         ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource(InputCaseDetailActivity.this, arrayNumber, android.R.layout.simple_spinner_item);
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
 

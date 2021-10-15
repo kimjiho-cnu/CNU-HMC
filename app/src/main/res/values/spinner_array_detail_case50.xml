@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="case_array5">
-        <item>5</item>
-        <item>5</item>
+    <string-array name="detail_case_array50">
+        <item>통로 직진</item>
     </string-array>
+
+
 
 </resources>

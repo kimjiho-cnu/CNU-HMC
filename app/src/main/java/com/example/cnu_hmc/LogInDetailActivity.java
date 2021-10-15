@@ -26,7 +26,7 @@ public class LogInDetailActivity extends AppCompatActivity {
         btn_signin_done = findViewById(R.id.btn_signin_done);
 
         btn_signin_done.setOnClickListener(view -> {
-            Intent intent = new Intent(this, ChooseTypeActivity.class);
+            Intent intent = new Intent(this, MainActivity.class);
             startActivity(intent);
         });
     }

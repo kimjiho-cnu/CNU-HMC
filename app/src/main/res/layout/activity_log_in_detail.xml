@@ -24,7 +24,7 @@
                 android:id="@+id/toolbar_signin"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:paddingLeft="30dp"
+                android:paddingLeft="10dp"
                 android:theme="@style/ToolbarTheme"
                 app:title="로그인 하기" />
 
