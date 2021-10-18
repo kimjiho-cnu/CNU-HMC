@@ -7,6 +7,22 @@
         <item>오른쪽 도로에서 좌회전</item>
     </string-array>
 
+    <string-array name="detail_case_array300">
+        <item>우회전</item>
+    </string-array>
+
+    <string-array name="detail_case_array301">
+        <item>오른쪽 도로에서 좌회전</item>
+    </string-array>
+
+    <string-array name="detail_case_array302">
+        <item>왼쪽 도로에서 좌회전</item>
+    </string-array>
+
+    <string-array name="detail_case_array303">
+        <item>왼쪽 도로에서 좌회전</item>
+    </string-array>
+
     <string-array name="detail_case_array31">
         <item>대로에서 직진</item>
         <item>소로에서 직진 (좌측도로)</item>
@@ -14,7 +30,31 @@
         <item>소로에서 좌회전</item>
         <item>소로에서 직진</item>
         <item>대로에서 좌회전</item>
+    </string-array>
 
+    <string-array name="detail_case_array310">
+        <item>소로에서 좌회전</item>
+        <item>소로에서 우회전</item>
+    </string-array>
+
+    <string-array name="detail_case_array311">
+        <item>대로에서 좌회전 (우측도로)</item>
+    </string-array>
+
+    <string-array name="detail_case_array312">
+        <item>대로에서 좌회전 (좌측도로)</item>
+    </string-array>
+
+    <string-array name="detail_case_array313">
+        <item>대로에서 좌회전</item>
+    </string-array>
+
+    <string-array name="detail_case_array314">
+        <item>대로에서 우회전</item>
+    </string-array>
+
+    <string-array name="detail_case_array315">
+        <item>소로에서 좌회전</item>
     </string-array>
 
     <string-array name="detail_case_array32">
@@ -25,7 +65,25 @@
         <item>일시정지 위반 좌회전</item>
     </string-array>
 
+    <string-array name="detail_case_array320">
+        <item>일시정지 위반 좌회전</item>
+        <item>일시정지 위반 우회전</item>
+    </string-array>
 
+    <string-array name="detail_case_array321">
+        <item>표지가 없는 도로에서 좌회전 (우측도로)</item>
+    </string-array>
 
+    <string-array name="detail_case_array322">
+        <item>표지가 없는 도로에서 좌회전 (좌측도로)</item>
+    </string-array>
+
+    <string-array name="detail_case_array323">
+        <item>표지가 없는 도로에서 우회전</item>
+    </string-array>
+
+    <string-array name="detail_case_array324">
+        <item>표지가 없는 도로에서 좌회전</item>
+    </string-array>
 
 </resources>

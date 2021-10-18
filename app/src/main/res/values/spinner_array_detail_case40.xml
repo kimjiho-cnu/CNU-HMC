@@ -4,14 +4,33 @@
         <item>회전교차로 진입</item>
     </string-array>
 
+    <string-array name="detail_case_array400">
+        <item>교차로 내 회전</item>
+    </string-array>
+
+
     <string-array name="detail_case_array41">
         <item>회전(회전 2차로)</item>
         <item>회전교차로 진입(1차로 -> 회전 2차로)</item>
         <item>회전(회전 1차로)</item>
         <item>진로변경(회전 1차로 -> 회전 2차로)</item>
-
     </string-array>
 
+    <string-array name="detail_case_array410">
+        <item>진로변경(회전 1차로 -> 회전 2차로)</item>
+    </string-array>
+
+    <string-array name="detail_case_array411">
+        <item>회전교차로 진입(2차로 -> 회전 2차로)</item>
+    </string-array>
+
+    <string-array name="detail_case_array412">
+        <item>회전교차로 대진입</item>
+    </string-array>
+
+    <string-array name="detail_case_array413">
+        <item>회전교차로 진입</item>
+    </string-array>
 
 
 </resources>

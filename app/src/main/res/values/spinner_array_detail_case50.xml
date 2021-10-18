@@ -4,6 +4,12 @@
         <item>통로 직진</item>
     </string-array>
 
+    <string-array name="detail_case_array500">
+        <item>주차구역에서 직진 출차</item>
+        <item>주차구역에서 후진 출차</item>
+    </string-array>
+
+
 
 
 </resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="detail_case_array_default3">
+        <item>본인 차량을 먼저 선택해주세요.</item>
+    </string-array>
+
+
+
+</resources>

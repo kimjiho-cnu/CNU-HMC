@@ -1,26 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="detail_case_array00">
-        <item>본인(또는 상대방) 자동차</item>
+        <item>선행자동차(1차사고차량)를 추돌</item>
         <item>후행 추돌</item>
         <item>주(정)차</item>
     </string-array>
+
+    <string-array name="detail_case_array000">
+        <item>선행자동차(1차사고차량)</item>
+    </string-array>
+
+    <string-array name="detail_case_array001">
+        <item>선행 직진</item>
+    </string-array>
+
+    <string-array name="detail_case_array002">
+        <item>후행 추돌</item>
+    </string-array>
+
+
 
     <string-array name="detail_case_array01">
         <item>본선에서 직진</item>
     </string-array>
 
+    <string-array name="detail_case_array010">
+        <item>차로 감소 도로에서 본선으로 합류</item>
+    </string-array>
+
+
     <string-array name="detail_case_array02">
         <item>후행 직진</item>
     </string-array>
+
+    <string-array name="detail_case_array020">
+        <item>선행자동차 (정차중 문열림)</item>
+    </string-array>
+
 
     <string-array name="detail_case_array03">
         <item>직진</item>
     </string-array>
 
+    <string-array name="detail_case_array030">
+        <item>중앙선 침범 직진</item>
+    </string-array>
+
+
     <string-array name="detail_case_array04">
         <item>(마주보며) 직진</item>
     </string-array>
+
+    <string-array name="detail_case_array040">
+        <item>(마주보며) 직진</item>
+    </string-array>
+
 
     <string-array name="detail_case_array05">
         <item>선행 직진</item>
@@ -28,19 +62,58 @@
         <item>실선 추월</item>
     </string-array>
 
+    <string-array name="detail_case_array050">
+        <item>추월 (실선 중앙선)</item>
+        <item>근접거리 추월 (점선 중앙선)</item>
+    </string-array>
+
+    <string-array name="detail_case_array051">
+        <item>중앙선 침범 추월 (전방)</item>
+    </string-array>
+
+    <string-array name="detail_case_array052">
+        <item>선행 직진</item>
+    </string-array>
+
+
     <string-array name="detail_case_array06">
         <item>후행 직진</item>
         <item>동시 차로 변경 (진로변경)</item>
         <item>정체차로에서 대기중 진로변경</item>
     </string-array>
 
+    <string-array name="detail_case_array060">
+        <item>선행 진로 변경</item>
+    </string-array>
+
+    <string-array name="detail_case_array061">
+        <item>동시 차로 변경 (진로변경)</item>
+    </string-array>
+
+    <string-array name="detail_case_array062">
+        <item>직진 (측면 충돌)</item>
+    </string-array>
+
+
     <string-array name="detail_case_array07">
         <item>후행 직진 (안전지대 벗어나기 전)</item>
         <item>후행 직진 (안전지대 벗어난 후)</item>
     </string-array>
 
+    <string-array name="detail_case_array070">
+        <item>선행 진로변경</item>
+    </string-array>
+
+    <string-array name="detail_case_array071">
+        <item>선행 진로변경</item>
+    </string-array>
+
     <string-array name="detail_case_array08">
         <item>정차 후 출발</item>
+    </string-array>
+
+    <string-array name="detail_case_array080">
+        <item>추월</item>
     </string-array>
 
     <string-array name="detail_case_array09">
@@ -48,6 +121,22 @@
         <item>후행 직진</item>
         <item>선행 직진</item>
         <item>선행 진로변경</item>
+    </string-array>
+
+    <string-array name="detail_case_array090">
+        <item>중앙선 왼쪽 통행 (긴급자동차)</item>
+    </string-array>
+
+    <string-array name="detail_case_array091">
+        <item>선행 진로변경 (긴급자동차)</item>
+    </string-array>
+
+    <string-array name="detail_case_array092">
+        <item>추월 (긴급자동차)</item>
+    </string-array>
+
+    <string-array name="detail_case_array093">
+        <item>후행 직진 (긴급자동차)</item>
     </string-array>
 
 </resources>

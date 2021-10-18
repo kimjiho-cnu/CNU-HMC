@@ -10,6 +10,39 @@
         <item>[황색신호] 좌회전, [적색신호] 충돌</item>
     </string-array>
 
+    <string-array name="detail_case_array100">
+        <item>[적색신호] 직진</item>
+    </string-array>
+
+    <string-array name="detail_case_array101">
+        <item>[녹색신호] 직진</item>
+    </string-array>
+
+    <string-array name="detail_case_array102">
+        <item>[녹색신호] 직진</item>
+    </string-array>
+
+    <string-array name="detail_case_array103">
+        <item>[적색신호] 직진</item>
+        <item>[적색신호] 좌회전</item>
+    </string-array>
+
+    <string-array name="detail_case_array104">
+        <item>[적색신호] 직진</item>
+        <item>[녹색 좌회전신호] 좌회전</item>
+        <item>[적색신호] 좌회전</item>
+        <item>[황색신호] 좌회전</item>
+    </string-array>
+
+    <string-array name="detail_case_array105">
+        <item>[녹색신호] 직진</item>
+    </string-array>
+
+    <string-array name="detail_case_array106">
+        <item>[녹색신호] 직진</item>
+    </string-array>
+
+
     <string-array name="detail_case_array11">
         <item>(마주보며) [적색신호] 직진</item>
         <item>(마주보며) [녹색신호] 직진</item>
@@ -19,9 +52,41 @@
         <item>[녹색 좌회전 신호] 좌회전</item>
     </string-array>
 
+    <string-array name="detail_case_array110">
+        <item>(마주보며) [녹색 좌회전신호] 좌회전</item>
+        <item>(마주보며) [적색신호] 좌회전</item>
+    </string-array>
+
+    <string-array name="detail_case_array111">
+        <item>(마주보며) [녹색신호] 좌회전(비보호좌회전 X)</item>
+    </string-array>
+
+    <string-array name="detail_case_array112">
+        <item>(마주보며) [녹색신호] 좌회전, [황색신호] 충돌</item>
+        <item>(마주보며) [황색신호] 좌회전</item>
+    </string-array>
+
+    <string-array name="detail_case_array113">
+        <item>(마주보며) [녹색신호] 직진</item>
+    </string-array>
+
+    <string-array name="detail_case_array114">
+        <item>(마주보며) [녹색신호] 직진</item>
+    </string-array>
+
+    <string-array name="detail_case_array115">
+        <item>맞은편 우회전</item>
+    </string-array>
+
+
     <string-array name="detail_case_array12">
         <item>(마주보며) [녹색신호] 좌회전 (비보호 좌회전)</item>
     </string-array>
+
+    <string-array name="detail_case_array120">
+        <item>(마주보며) [녹색신호] 직진</item>
+    </string-array>
+
 
     <string-array name="detail_case_array13">
         <item>[무신호] 직진</item>
@@ -29,12 +94,40 @@
         <item>[무신호] 좌회전</item>
     </string-array>
 
+    <string-array name="detail_case_array130">
+        <item>[적색신호] 직진</item>
+        <item>[녹색신호] 직진</item>
+        <item>[황색신호] 직진</item>
+    </string-array>
+
+    <string-array name="detail_case_array131">
+        <item>[적색신호] 직진</item>
+        <item>[녹색신호] 직진</item>
+        <item>[황색신호] 직진</item>
+    </string-array>
+
+    <string-array name="detail_case_array132">
+        <item>[적색신호] 직진</item>
+        <item>[녹색신호] 직진</item>
+        <item>[황색신호] 직진</item>
+    </string-array>
+
+
     <string-array name="detail_case_array14">
         <item>[녹색신호] 직진(교차로 내 진로변경)</item>
     </string-array>
 
+    <string-array name="detail_case_array140">
+        <item>우회전</item>
+    </string-array>
+
+
     <string-array name="detail_case_array15">
         <item>중앙선 침범 추월</item>
+    </string-array>
+
+    <string-array name="detail_case_array150">
+        <item>[녹색 좌회전 신호] 좌회전</item>
     </string-array>
 
     <string-array name="detail_case_array16">
@@ -44,7 +137,29 @@
         <item>동시 유턴 (선행)</item>
     </string-array>
 
+    <string-array name="detail_case_array160">
+        <item>상시유턴구역에서 유턴</item>
+        <item>신호에 따른 유턴</item>
+    </string-array>
+
+    <string-array name="detail_case_array161">
+        <item>상시유턴구역에서 유턴</item>
+        <item>신호에 따른 유턴</item>
+    </string-array>
+
+    <string-array name="detail_case_array162">
+        <item>급 유턴 (후행)</item>
+    </string-array>
+
+    <string-array name="detail_case_array163">
+        <item>동시 유턴 (후행)</item>
+    </string-array>
+
     <string-array name="detail_case_array17">
+        <item>정차 후 출발</item>
+    </string-array>
+
+    <string-array name="detail_case_array170">
         <item>정차 후 출발</item>
     </string-array>
 
@@ -56,10 +171,42 @@
         <item>선행 우회전 (직,우회전 노면표시차로)</item>
     </string-array>
 
+    <string-array name="detail_case_array180">
+        <item>[녹색 좌회전 신호] 좌회전 (직,좌회전 노면표시차로)</item>
+    </string-array>
+
+    <string-array name="detail_case_array181">
+        <item>[녹색 직,좌회전 신호] 선행 좌회전 (직,좌회전 노면표시차로)</item>
+    </string-array>
+
+    <string-array name="detail_case_array182">
+        <item>좌회전 (직진 노면표시차로)</item>
+    </string-array>
+
+    <string-array name="detail_case_array183">
+        <item>직진 (직,우회전 노면표시차로)</item>
+    </string-array>
+
+    <string-array name="detail_case_array184">
+        <item>후행 직진 (우회전 노면표시차로)</item>
+    </string-array>
+
     <string-array name="detail_case_array19">
         <item>[녹색신호] 직진</item>
         <item>[녹색 좌회전 신호] 좌회전</item>
         <item>유턴</item>
+    </string-array>
+
+    <string-array name="detail_case_array190">
+        <item>[적색신호] 직진 (긴급자동차)</item>
+    </string-array>
+
+    <string-array name="detail_case_array191">
+        <item>중앙선 왼쪽 통행 (긴급자동차)</item>
+    </string-array>
+
+    <string-array name="detail_case_array192">
+        <item>중앙선 왼쪽 통행 (긴급자동차)</item>
     </string-array>
 
 </resources>
