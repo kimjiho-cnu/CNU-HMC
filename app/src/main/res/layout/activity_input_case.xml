@@ -52,11 +52,11 @@
                 android:layout_weight="5"
                 android:gravity="center">
 
-                <ImageView
+                <VideoView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
-                    android:background="@drawable/case1" />
+                    android:id="@+id/input_case_video"/>
 
 
             </LinearLayout>

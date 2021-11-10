@@ -33,7 +33,7 @@
         <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/layout/activity_input_case.xml" value="0.2441123188405797" />
         <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/layout/activity_input_case_detail.xml" value="0.4288194444444444" />
         <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/layout/activity_input_road.xml" value="0.264" />
-        <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/layout/activity_judgement.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/layout/activity_judgement.xml" value="0.264" />
         <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/layout/activity_log_in_detail.xml" value="0.264" />
         <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/layout/activity_login.xml" value="0.264" />
         <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/layout/activity_main.xml" value="0.23777173913043478" />
@@ -45,10 +45,14 @@
         <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.16145833333333334" />
         <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/mipmap-anydpi-v26/login.xml" value="0.26979166666666665" />
         <entry key="..\:/Users/Samsung/AndroidStudioProjects/CNU_HMC/app/src/main/res/mipmap-anydpi-v26/login_round.xml" value="0.16145833333333334" />
+        <entry key="..\:/Users/user/Desktop/CNU_HMC/app/src/main/res/layout/activity_input_case.xml" value="0.33178869323447635" />
+        <entry key="..\:/Users/user/Desktop/CNU_HMC/app/src/main/res/layout/activity_input_case_detail.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/user/Desktop/CNU_HMC/app/src/main/res/layout/activity_input_road.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/user/Desktop/CNU_HMC/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
